@@ -4,6 +4,7 @@ public class reverseloop1 {
         Scanner sc = new Scanner(System.in);
         System.out.print("enter any number =");
         int n = sc.nextInt();
+        sc.close();
         int r = 0;
         while (n!=0) {
             r = r*10;
