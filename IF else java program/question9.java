@@ -6,7 +6,7 @@ public class question9 {
         Scanner sc = new Scanner(System.in);
         System.out.print("enter the value of x = ");
         int x = sc.nextInt();
-        System.out.print("enter the value of y = ");
+        System.out.print("enter the value of y : ");
         int y = sc.nextInt();
         sc.close();
         if(x == 0 && y == 0){
