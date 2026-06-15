@@ -7,7 +7,7 @@ public class question5 {
         Scanner sc = new Scanner(System.in);
         System.out.print("enter the cost price = ");
         int cost = sc.nextInt();
-        System.out.print("enter the selling price = ");
+        System.out.print("enter the selling price : ");
         int sell = sc.nextInt();
         sc.close();
         if(sell>cost){

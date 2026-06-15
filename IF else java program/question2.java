@@ -10,7 +10,7 @@ public class question2 {
             System.out.println("It is multiple of 5");
         }
         else{
-            System.out.println("it is not a multiple of 5");
+            System.out.println("it is not a 5 multiple ");
         }
     }
     
