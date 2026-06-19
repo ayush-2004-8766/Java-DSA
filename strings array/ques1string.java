@@ -12,7 +12,8 @@ public class ques1string {
                 count++;
         }
         System.out.println(count);
+        sc.close();
     }
-
+    
     
 }
