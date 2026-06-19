@@ -21,7 +21,6 @@ public class Ques2string {
         else{
             System.out.println("not a plaindrom string");
         }
-    
         for(int i = 0; i<str.length();i++){
             System.out.println(str.charAt(i));
             
