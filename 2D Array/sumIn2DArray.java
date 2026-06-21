@@ -8,10 +8,9 @@ public class sumIn2DArray{
         for(int i = 0; i<arr.length;i++){
             for(int j = 0; j<arr[0].length;j++){
                 arr[i][j] = sc.nextInt();
-
-            }
-           
+            }      
         }
+       
         int sum = 0;
         for(int i = 0; i<arr.length;i++){
             for(int j = 0; j<arr[0].length;j++){
@@ -21,6 +20,7 @@ public class sumIn2DArray{
            
         }
         System.out.println(sum);
-        
+        sc.nextInt();
     }
+     
 }
